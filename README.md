@@ -7,7 +7,7 @@
 <img width="20%" align="right" alt="Github Image" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" />
 
 - 🌱 I’m Currently learning Python. 
-- 📫 How to reach me: **[siddheswarpramanik26@gmail.com](mailto:[siddheswarpramanik26@gmail.com?subject=[GitHub]%20)**
+- 📫 How to reach me: **[pramaniksiddheswar26@gmail.com](mailto:[pramaniksiddheswar26@gmail.com?subject=[GitHub]%20)**
 - 💬 Ask me about **anything**, always ready to help.
 - 🌐 Portfolio - **[My portfolio](https://santupramanik.github.io/Santu/)**
 - 😅 Fun Project - **[santuGPT](https://santugpt.onrebder.com)**
