@@ -10,6 +10,7 @@
 - 📫 How to reach me: **[siddheswarpramanik26@gmail.com](mailto:[siddheswarpramanik26@gmail.com?subject=[GitHub]%20)**
 - 💬 Ask me about **anything**, always ready to help.
 - 🌐 Portfolio - **[My portfolio](https://santupramanik.github.io/Santu/)**
+- 😅 Fun Project - **[santuGPT](https://santugpt.onrebder.com)**
   
 
 <br/>
